@@ -1,4 +1,4 @@
-package chap12;
+package java;
 
 class B implements Runnable{
 	//변수 생성자 메소드 추가 선택적

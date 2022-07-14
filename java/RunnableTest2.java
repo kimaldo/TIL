@@ -1,4 +1,4 @@
-package chap12;
+package java;
 
 //중첩 인터페이스
 // 특정 class 내부에 포함되어 사용하는 인터페이스

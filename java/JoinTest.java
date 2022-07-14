@@ -1,3 +1,4 @@
+package java;
 class C extends Thread{
 	int data = 10;
 	public void run() {
